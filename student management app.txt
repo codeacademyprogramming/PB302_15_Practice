@@ -1,0 +1,26 @@
+telebe adlari ve yaslari
+
+Menu:
+1. Butun telebelere bax
+2. Telebe elave et
+3. Telebeler uzeinde axtaris et
+4. Secilmis nomreli telebeni goster
+5. Secilmis nomreli telebeni sil
+0. Cix
+
+1 secilse butun telebe adlari ve yaslari gosterilmelidir
+
+2 secilse sisteme yeni bir telebe datalasi elave edilmelidir, bunun ucun telebenin adi ve yasi consoledan 
+  goturulub adi adlar siyahisina yasi ise yaslar siyahisina elave edilir. Telebe adi uzunulugu 3-20 arasi 
+  ola biler ve yalniz herflerden ibaret olmalidir.Telebe adi adlar siyahisina elave olarken bas herf boyuk 
+  diger herfler kicik formaya salinmalidir. Yas datasi 15-60 araliginda olmalidir. datalar sehv daxil 
+  edildikde yeniden daxil edilmesi istenilmelidir
+
+3 secildikde consoledan axtaris deyeri daxil edilib adinda hemin deyer olan butun telebeler gosterilmelidir
+
+4 secildikde consoledan telebenin indexi daxil edilib o indexli telebe datalari gosterilmelidir
+
+5 secildikde consoledan telebe indexi daxil edilib o indexli telebe sistemden silinmelidir
+
+0 secildikde proqram bitmelidir
+

@@ -1,0 +1,36 @@
+1. programda adlar ucun string array ve yaslar ucun byte array yaratmaq 
+   ve icinde default deyerler yerlesdirmek
+2. Menu penceresini consoleda gostermek.Menu penceresi asagidaki yazilardan ibaretdir.
+	1. Butun telebelere bax
+	2. Telebe elave et
+	3. Telebeler uzerinde axtaris et
+	4. Secilmis nomreli telebeni goster
+	5. Secilmis nomreli telebeni sil
+	0. Cix
+
+3. Istifadeciden buradaki nomrelerden(emeliyyatlardan) birini daxil etmesini istemek.
+   Olmayan bir nomre daxil edilse menu penceresini yeniden gosterib emeliyyati tekrarlamaq,
+   0 secilse proqrami dayandirmaq
+4. Emeliyyat nomresini switch case uzre yoxlamaq
+5. 1ci emeliyyat secilibse yaratdigimiz adlar siyahisi siyahisindaki datalari console-da gostererik
+6. 2ci emeliyyat secilibse consoledan telebe adini adini goturub adlar siyahina elave etmek
+7. Daha sonra 1ci emelyyati secib array yoxlamaq
+8. 2ci emelyyat secilibse consoledan adi goturdukden sonra uzunlugunun 3-10 araliginda olub olmadigini yoxlamaq, deyilse yeniden daxil edilmesini istemek
+9. 2ci emeliyyat daxil edilen adin yalniz herflerden ibaret olub olmadigini yoxlamaq, deyilse yeniden daxil edilmesini istemek
+9.1 adi siyahiya elave etmeden once formatini duzeltmek(capitalize etmek)-bas herf boyuk diger herfler kicik hala getirmek
+10. 3cu emelyyat secilibse consoledan axtaris deyerini goturmek
+11. Adlar siyahisindaki adlardan hansilarda goturduyumuz axtaris deyeri varsa onlari console-da gostermek
+12. 4cu emeliyyat secilibse butun telebe adlarini yaninda indexleri ile gostermek
+13. istifadeciden bir index datasi secmesini istemek
+14. secilen datanin duzgun bir index olub olmadigini yoxlamaq, deyilse yeniden daxil edilmesini istemek
+15. secilen indexli adi console-da gostermek
+16. 5ci emeliyyat secilibse butun telebe adlarini yaninda indexleri ile gostermek
+17. istifadeciden bir index datasi secmesini istemek
+18. secilen datanin duzgun bir index olub olmadigini yoxlamaq, deyilse yeniden daxil edilmesini istemek
+19. secilen indexli elementi array-den silmek
+20. 2ci emelyyatdan addan elave yas datasi istemek
+21. daxilen edilen yasin duzgun olub olmadigini yoxlamaq ve deyilse yeniden istemek
+22. 2ci emelyyatdan yasi goturdukden sonra yaslar siyahisina elave etmek
+23. 1ci emelyyatdan butun datalari gosterende adlarla birlikde yaslari da gostermek
+24. 4cu emelyyatdan secilmis telebenin adini ile birlikde yasini da gostermek
+25. 5ci emeliyyatdan secilmis indexli adi adlar siyahisindan silerken eyni indexli yasi da yaslar siyahisindan silmek
