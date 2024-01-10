@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\09012024\\StudentManagementApp\\StudentManagementApp.csproj": {}
+    "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\PB302_15_Practice\\09012024\\StudentManagementApp\\StudentManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\09012024\\StudentManagementApp\\StudentManagementApp.csproj": {
+    "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\PB302_15_Practice\\09012024\\StudentManagementApp\\StudentManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\09012024\\StudentManagementApp\\StudentManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\PB302_15_Practice\\09012024\\StudentManagementApp\\StudentManagementApp.csproj",
         "projectName": "StudentManagementApp",
-        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\09012024\\StudentManagementApp\\StudentManagementApp.csproj",
+        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\PB302_15_Practice\\09012024\\StudentManagementApp\\StudentManagementApp.csproj",
         "packagesPath": "C:\\Users\\elchin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\09012024\\StudentManagementApp\\obj\\",
+        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\15. 09-01-2024\\PB302_15_Practice\\09012024\\StudentManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

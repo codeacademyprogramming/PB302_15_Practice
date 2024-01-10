@@ -12,3 +12,17 @@ C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\09012024\StudentManagementApp
 C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.dll
 C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.pdb
 C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\bin\Debug\netcoreapp3.1\StudentManagementApp.exe
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\bin\Debug\netcoreapp3.1\StudentManagementApp.deps.json
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\bin\Debug\netcoreapp3.1\StudentManagementApp.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\bin\Debug\netcoreapp3.1\StudentManagementApp.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\bin\Debug\netcoreapp3.1\StudentManagementApp.dll
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\bin\Debug\netcoreapp3.1\StudentManagementApp.pdb
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.dll
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.pdb
+C:\Users\elchin\Desktop\CodeLessons\15. 09-01-2024\PB302_15_Practice\09012024\StudentManagementApp\obj\Debug\netcoreapp3.1\StudentManagementApp.genruntimeconfig.cache
